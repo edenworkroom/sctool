@@ -1,7 +1,7 @@
 import popup from 'popup-js-sdk'
 
 let config = {
-    name: "Smart Contract Tool",
+    name: "SC Tool",
     contractAddress: "none",
     github: "https://github.com/edenworkroom/sctool",
     author: "eden",
