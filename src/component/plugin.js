@@ -6,7 +6,7 @@ let config = {
     github: "https://github.com/edenworkroom/sctool",
     author: "eden",
     url: document.location.href,
-    logo: document.location.protocol+"//"+document.location.host+"/dapp/dapp.png",
+    logo: document.location.protocol+"//"+document.location.host+"/sctool/sctool.png",
 }
 popup.init(config, function () {
 });
